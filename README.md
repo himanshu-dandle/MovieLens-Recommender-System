@@ -54,6 +54,8 @@ Examples of recommended movies based on content (genres):
 | **Baseline Only** | 0.87  | 0.67 | 0.83         | 0.31      | 0.17     | 0.25     |
 
 ![Model Performance](output/model_performance_visualization.png)
+![Model Performance](output/model_performance_comparison.png)
+![Model Performance](output/tuned_svd_performance.png)
 
 ## Future Work
 
