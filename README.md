@@ -5,6 +5,9 @@ This project implements a **hybrid recommender system** using the MovieLens data
 ## Project Overview
 
 - **Goal**: Build a movie recommendation system that suggests movies based on both user preferences and movie features.
+Collaborative Filtering: Recommends movies based on user ratings and similarities.
+Content-Based Filtering: Recommends movies based on the similarity of movie attributes (e.g., genres).
+Hybrid Approach: Combines the strengths of both collaborative and content-based filtering to improve recommendation accuracy.
 - **Dataset**: The [MovieLens dataset](https://grouplens.org/datasets/movielens/) contains information on user ratings and movie metadata like genres.
 
 ### Dataset Information:
